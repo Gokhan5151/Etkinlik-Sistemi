@@ -1,2 +1,1 @@
 # Etkinlik-Sistemi
-Etkinlik Sistemi
