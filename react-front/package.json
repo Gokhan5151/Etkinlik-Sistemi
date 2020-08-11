@@ -1,0 +1,67 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-chart": "^2.7.0",
+    "@devexpress/dx-react-chart-bootstrap4": "^2.7.0",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.0",
+    "@devexpress/dx-react-core": "^2.7.0",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.5.1",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "classnames": "^2.2.6",
+    "cred": "^0.6.0",
+    "emailjs-com": "^2.6.3",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "http-proxy-middleware": "^1.0.5",
+    "nodemailer": "^6.4.10",
+    "nodemailer-smtp-pool": "^2.8.3",
+    "primeflex": "^2.0.0-rc.1",
+    "primeicons": "^4.0.0",
+    "primereact": "^4.2.2",
+    "qrcode.react": "^1.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-mailto": "^0.4.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "react-transition-group": "^2.5.1",
+    "react-web-notification": "^0.8.0",
+    "readline": "^1.3.0",
+    "websocket": "^1.0.31"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)."
+}
